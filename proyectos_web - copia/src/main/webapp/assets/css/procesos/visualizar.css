@@ -1,0 +1,8 @@
+body {
+	background-image: url("../img/FONDOHD.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+  }

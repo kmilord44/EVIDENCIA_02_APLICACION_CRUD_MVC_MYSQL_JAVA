@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+body {
+  background-image: url("../img/FONDOHD.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+
+
+.imgf {
+  height: 100px;
+  width: 300px;
+  position: relative;
+  top: 70px;
+}
+
+
+.imgw {
+  height: 150px;
+  width: 330px;
+  position: relative;
+  top: 180px;
+}
+
+.porfafa {
+  position: relative;
+  top: 200px;
+  text-decoration: none;
+  background: transparent;
+  border: 5px solid rgba(31, 42, 255, 0.294);
+  border-radius: 20px;
+  margin: 0px 300px;
+}
+
+.porfawa {
+  position: relative;
+  top: 400px;
+  text-decoration: none;
+  background: transparent;
+  border: 5px solid rgba(52, 255, 48, 0.5);
+  border-radius: 20px;
+  margin: 0px 300px;
+}
+
+a {
+  font-size: 30px;
+  color: aliceblue;
+  text-decoration: none;
+}
