@@ -1,0 +1,10 @@
+model\Estado\EstadoDao.class
+model\conexion.class
+controller\Publicacion.class
+controller\Estados.class
+model\Usuario\UsuarioVo.class
+model\Publicacion\PublicacionVo.class
+model\Estado\EstadoVo.class
+model\Publicacion\PublicacionDao.class
+model\Usuario\UsuarioDao.class
+proyecto.class
